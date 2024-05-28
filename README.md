@@ -1,4 +1,4 @@
-Hi there 
+Hi there 😄
 
 eu sou Alisson Zucchi, sou um desenvolvedor Front End, atualmento estou aprendendo e criando projetos com:
 <br>
