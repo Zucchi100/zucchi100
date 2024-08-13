@@ -6,8 +6,12 @@ eu sou Alisson Zucchi, sou um desenvolvedor Front End e aperfeiçoando conhecime
 - <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
 - <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
 - <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt ="logo-javascript"/>
+- <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt ="logo-typescript"/>
 - <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt ="logo-node"/>
 - <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt ="logo-react"/>
+- <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt ="logo-bootstrap"/>
+-  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt ="logo-taiwl"/>
+- <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt ="logo-vscode"/>
 <br>
 
 atualmente estou realizando um curso com Rodolfo Mori, na Instituição DevClub, em busca de uma formação FullStack.
